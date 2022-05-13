@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3f78804d.css",
+    "main.js": "/static/js/main.298454e8.js",
+    "static/js/787.339a9310.chunk.js": "/static/js/787.339a9310.chunk.js",
+    "static/media/EuclidCircularA-Medium.ttf": "/static/media/EuclidCircularA-Medium.a5befbfcb71cd093cc56.ttf",
+    "static/media/EuclidCircularA-SemiBold.ttf": "/static/media/EuclidCircularA-SemiBold.ae11344face2a74d2042.ttf",
+    "static/media/algebra.png": "/static/media/algebra.24c7f66e5fb83340096b.png",
+    "static/media/history.png": "/static/media/history.a74bb81fc975c117efb0.png",
+    "static/media/geography.png": "/static/media/geography.e67e01ecbc949a6abb1f.png",
+    "static/media/art.png": "/static/media/art.a8eb3f919ce05428ef32.png",
+    "static/media/starstruck.png": "/static/media/starstruck.e7b45e8c4fe013cbb084.png",
+    "static/media/music.png": "/static/media/music.6825a8a3d3f9aca62bcc.png",
+    "static/media/biology.png": "/static/media/biology.c89d7018e2e77722ba79.png",
+    "static/media/literature.png": "/static/media/literature.c1c93513e76ffea2806d.png",
+    "static/media/wavinghand.png": "/static/media/wavinghand.974d17fe8817ca720493.png",
+    "static/media/physics.png": "/static/media/physics.936332a8283018494d71.png",
+    "static/media/chemistry.png": "/static/media/chemistry.0c251dcd7d5abce49424.png",
+    "static/media/society.png": "/static/media/society.396ccb1e5bda62036739.png",
+    "static/media/obj.png": "/static/media/obj.dbe46b54afa6b9625744.png",
+    "static/media/english.png": "/static/media/english.8f04e110c984f18af643.png",
+    "static/media/geometry.png": "/static/media/geometry.b3791f42677a9182dc0e.png",
+    "static/media/thumbssdown.png": "/static/media/thumbssdown.7358af96b13fcd304b6d.png",
+    "static/media/thumbssup.png": "/static/media/thumbssup.4085e6d376fff072123d.png",
+    "static/media/kazah.png": "/static/media/kazah.86f38d23a958e6e90aa4.png",
+    "static/media/ecology.png": "/static/media/ecology.613284bf4bfeac994f68.png",
+    "static/media/informationtech.png": "/static/media/informationtech.cf51dbf0e026577ac860.png",
+    "static/media/spanish.png": "/static/media/spanish.d815fa75506b328be601.png",
+    "static/media/math.png": "/static/media/math.f57b6555a9ce0746de33.png",
+    "static/media/gdzlogo.svg": "/static/media/gdzlogo.4107651506c01957375a7ce88d280258.svg",
+    "index.html": "/index.html",
+    "main.3f78804d.css.map": "/static/css/main.3f78804d.css.map",
+    "main.298454e8.js.map": "/static/js/main.298454e8.js.map",
+    "787.339a9310.chunk.js.map": "/static/js/787.339a9310.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f78804d.css",
+    "static/js/main.298454e8.js"
+  ]
+}
