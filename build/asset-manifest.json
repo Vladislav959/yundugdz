@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3f78804d.css",
-    "main.js": "/static/js/main.298454e8.js",
+    "main.js": "/static/js/main.80791c9d.js",
     "static/js/787.339a9310.chunk.js": "/static/js/787.339a9310.chunk.js",
     "static/media/EuclidCircularA-Medium.ttf": "/static/media/EuclidCircularA-Medium.a5befbfcb71cd093cc56.ttf",
     "static/media/EuclidCircularA-SemiBold.ttf": "/static/media/EuclidCircularA-SemiBold.ae11344face2a74d2042.ttf",
@@ -30,11 +30,11 @@
     "static/media/gdzlogo.svg": "/static/media/gdzlogo.4107651506c01957375a7ce88d280258.svg",
     "index.html": "/index.html",
     "main.3f78804d.css.map": "/static/css/main.3f78804d.css.map",
-    "main.298454e8.js.map": "/static/js/main.298454e8.js.map",
+    "main.80791c9d.js.map": "/static/js/main.80791c9d.js.map",
     "787.339a9310.chunk.js.map": "/static/js/787.339a9310.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3f78804d.css",
-    "static/js/main.298454e8.js"
+    "static/js/main.80791c9d.js"
   ]
 }
