@@ -178,6 +178,7 @@ app.get('/api/gettask', async (req,res)=>{
         info:{},
         images:[]
     }
+    boxobject.info.heading = document.querySelector('h1[itemprop="name"]')
         boxobject.info.cover = elem.querySelector(".for-cover img").getAttribute("data-src");
         const imageRes = await axios.get("https:" + boxobject.info.cover,{
             responseType: 'arraybuffer'
