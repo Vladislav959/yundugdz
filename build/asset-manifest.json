@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.44a83744.css",
-    "main.js": "/static/js/main.6b1124cc.js",
+    "main.css": "/static/css/main.4b68404f.css",
+    "main.js": "/static/js/main.54d1e395.js",
     "static/js/787.339a9310.chunk.js": "/static/js/787.339a9310.chunk.js",
     "static/media/EuclidCircularA-Medium.ttf": "/static/media/EuclidCircularA-Medium.a5befbfcb71cd093cc56.ttf",
     "static/media/EuclidCircularA-SemiBold.ttf": "/static/media/EuclidCircularA-SemiBold.ae11344face2a74d2042.ttf",
@@ -20,21 +20,23 @@
     "static/media/obj.png": "/static/media/obj.dbe46b54afa6b9625744.png",
     "static/media/english.png": "/static/media/english.8f04e110c984f18af643.png",
     "static/media/geometry.png": "/static/media/geometry.b3791f42677a9182dc0e.png",
+    "static/media/edit.png": "/static/media/edit.b2a350784709c75618a0.png",
     "static/media/thumbssdown.png": "/static/media/thumbssdown.7358af96b13fcd304b6d.png",
     "static/media/thumbssup.png": "/static/media/thumbssup.4085e6d376fff072123d.png",
     "static/media/kazah.png": "/static/media/kazah.86f38d23a958e6e90aa4.png",
     "static/media/ecology.png": "/static/media/ecology.613284bf4bfeac994f68.png",
+    "static/media/technology.png": "/static/media/technology.27001bee99ff2535bda3.png",
     "static/media/informationtech.png": "/static/media/informationtech.cf51dbf0e026577ac860.png",
     "static/media/spanish.png": "/static/media/spanish.d815fa75506b328be601.png",
     "static/media/math.png": "/static/media/math.f57b6555a9ce0746de33.png",
     "static/media/gdzlogo.svg": "/static/media/gdzlogo.e84b0dc212d58bdc6b97860218bcc51c.svg",
     "index.html": "/index.html",
-    "main.44a83744.css.map": "/static/css/main.44a83744.css.map",
-    "main.6b1124cc.js.map": "/static/js/main.6b1124cc.js.map",
+    "main.4b68404f.css.map": "/static/css/main.4b68404f.css.map",
+    "main.54d1e395.js.map": "/static/js/main.54d1e395.js.map",
     "787.339a9310.chunk.js.map": "/static/js/787.339a9310.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.44a83744.css",
-    "static/js/main.6b1124cc.js"
+    "static/css/main.4b68404f.css",
+    "static/js/main.54d1e395.js"
   ]
 }
